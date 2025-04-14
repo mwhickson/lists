@@ -28,6 +28,9 @@ Cities Without Number SRD (CC)
 Cthulhu Eternal (OGL)
 - https://cthulhueternal.com/open-rulesets/
 
+Cypher System SRD (Cypher System Open License)
+- https://csol.montecookgames.com/license/
+
 Dungeons & Dragons (CC, previously OGL)
 - https://www.dndbeyond.com/sources/dnd/free-rules
 
@@ -48,6 +51,9 @@ Hack100 (CC)
 
 Ironsworn (CC)
 - https://tomkinpress.com/collections/free-downloads
+
+Low Fantasy Gaming (OGL)
+- https://lowfantasygaming.com/freepdf/
 
 Mutants & Masterminds (OGL)
 - https://www.d20herosrd.com/
@@ -92,6 +98,9 @@ _CC - Creative Commons | OGL - Open Gaming License | ORC - Open RPG Creative Lic
 
 ## Quickstarts and Free Systems
 
+2d20 SRD
+- https://www.drivethrurpg.com/en/product/403658/2d20-system-reference-document
+
 Against the Darkmaster Quickstart
 - https://www.drivethrurpg.com/en/product/273729/against-the-darkmaster-quickstart
 
@@ -106,8 +115,14 @@ Castles & Crusades
 - Player's Handbook: https://trolllord.com/product/cc-players-handbook-7th-printing-alternate-cover-free-pdf/
 - Monsters and Treasure: https://trolllord.com/product/castles-crusades-monsters-treasure-3rd-printing-free-pdf/
 
+CJ Carrella's WitchCraft
+- https://www.drivethrurpg.com/en/product/692/cj-carrella-s-witchcraft
+
 Cortex Prime
 - https://www.cortexrpg.com/compendium/explore-the-rules
+
+Electric Bastionland Free Edition
+- https://chrismcdee.itch.io/electric-bastionland-free-edition
 
 GURPS Lite
 - Third Edition: https://warehouse23.com/products/gurps-lite-third-edition
@@ -116,11 +131,20 @@ GURPS Lite
 Huckleberry: Quickdraw Edition
 - https://www.drivethrurpg.com/en/product/514985/huckleberry-quickdraw-edition
 
+ICON playtest
+- https://massif-press.itch.io/icon
+
 MÖRK BORG - BARE BONES edition
 - https://www.morkborg.com/content/
 
+OneDice Quickstart
+- https://www.drivethrurpg.com/en/product/143309/onedice-quickstart
+
 Savage Worlds Test Drive
 - https://peginc.com/product-tag/test-drive/
+
+Shadowdark Quickstart
+- https://www.thearcanelibrary.com/products/shadowdark-rpg-quickstart-set-pdf
 
 Tales of Xadia Rules Primer
 - https://www.talesofxadia.com/compendium/rules-primer

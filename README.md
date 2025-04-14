@@ -17,6 +17,7 @@ A little less convenient than browser bookmarks, but easier to reference/share.
 
 ## Roleplaying Games
 
+- [Settings](rpg/settings.md)
 - [Systems](rpg/systems.md)
 - [Tools](rpg/tools.md)
 
