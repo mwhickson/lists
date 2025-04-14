@@ -17,8 +17,8 @@ A little less convenient than browser bookmarks, but easier to reference/share.
 
 ## Roleplaying Games
 
-- [Systems](rpgs/systems.md)
-- [Tools](rpgs/tools.md)
+- [Systems](rpg/systems.md)
+- [Tools](rpg/tools.md)
 
 ## Miscellaneous
 
