@@ -11,6 +11,7 @@ A little less convenient than browser bookmarks, but easier to reference/share.
 
 ## Entertainment
 
+- [Amusements](entertainment/amusements.md)
 - [Music](entertainment/music.md)
 - [Podcasts](entertainment/podcasts.md)
 - [Streaming Media](entertainment/streaming.md)
