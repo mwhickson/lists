@@ -15,6 +15,7 @@ A little less convenient than browser bookmarks, but easier to reference/share.
 - [Music](entertainment/music.md)
 - [Podcasts](entertainment/podcasts.md)
 - [Streaming Media](entertainment/streaming.md)
+- [Television](entertainment/television.md)
 
 ## Roleplaying Games
 
