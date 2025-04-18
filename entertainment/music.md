@@ -83,6 +83,9 @@ Corroded
 @LouisArmstrongOfficial
 - https://www.youtube.com/@LouisArmstrongOfficial
 
+@MasterBootRecord
+- https://www.youtube.com/@MasterBootRecord
+
 @mastodon
 - https://www.youtube.com/@mastodon
 

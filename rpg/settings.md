@@ -17,6 +17,9 @@ Earthdawn (Earthdawn)
 Eberron (D&D)
 - https://eberron.fandom.com/wiki/Eberron_Wiki
 
+Eversink (Swords of the Serpentine GUMSHOE)
+- https://pelgranepress.com/2019/06/05/three-things-about-eversink-swords-of-the-serpentines-core-setting/
+
 Krynn / Dragonlance (D&D)
 - https://dragonlance.fandom.com/wiki/Main_Page
 
