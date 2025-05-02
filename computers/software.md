@@ -124,6 +124,9 @@ Haiku OS
 Linux Mint
 - https://linuxmint.com/
 
+Manjaro
+- https://manjaro.org/
+
 Pop!_OS
 - https://system76.com/pop/
 
