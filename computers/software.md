@@ -141,3 +141,6 @@ Pop!_OS
 
 RISC OS
 - https://www.riscosopen.org/content/
+
+Ubuntu
+- https://ubuntu.com/
