@@ -10,6 +10,12 @@ Fossil SCM
 Gitea
 - https://about.gitea.com/
 
+Gnome Podcasts
+- https://apps.gnome.org/Podcasts/
+
+gPodder + VLC
+- https://gpodder.github.io/
+
 Grover Podcast
 - https://apps.microsoft.com/detail/9nblggh6c4bc?hl=en-US&gl=US
 
@@ -24,6 +30,9 @@ ripgrep
 
 Sqlite
 - https://sqlite.org/
+
+VLC
+- https://www.videolan.org/vlc/
 
 WinMerge
 - https://winmerge.org/?lang=en
