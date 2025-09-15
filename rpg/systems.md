@@ -134,6 +134,9 @@ Huckleberry: Quickdraw Edition
 ICON playtest
 - https://massif-press.itch.io/icon
 
+LifepathRPG
+- https://www.lifepathrpg.com/
+
 MÖRK BORG - BARE BONES edition
 - https://www.morkborg.com/content/
 
