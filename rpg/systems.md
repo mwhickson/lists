@@ -19,6 +19,9 @@ Basic Fantasy Role-playing Game (CC)
 Blades in the Dark (CC)
 - https://bladesinthedark.com/basics
 
+Cairn (CC)
+- https://cairnrpg.com/
+
 Cepheus Engine SRD
 - https://www.orffenspace.com/cepheus-srd/introduction.html
 
