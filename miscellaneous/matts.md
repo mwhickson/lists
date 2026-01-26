@@ -22,6 +22,7 @@
 - McConaughey (actor)
 - Mercer (rpg)
 - Modine (actor)
+- Näslund (hockey)
 - Perry (actor)
 - Smith (actor)
 - Sweet (musician)
