@@ -1,5 +1,11 @@
 # Lists
 
+Please note that this content has been moved to my blog:
+
+- https://mwhickson.github.io/blog/lists/
+
+---
+
 Lists of things of interest to me.
 
 A little less convenient than browser bookmarks, but easier to reference/share.
